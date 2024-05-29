@@ -154,6 +154,8 @@ public class AgendaElectronica {
     // Métodos
 
 
+    // Método para limpiar los campos :
+
     private void limpiarCampos() {
 
         textdni.setText("");
